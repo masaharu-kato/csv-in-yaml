@@ -1,0 +1,14 @@
+{
+  "hoge": 123,
+  "some-var": 3.14159,
+  "data": {
+    "YAML": [
+      "A human-readable data serialization language",
+      "https://en.wikipedia.org/wiki/YAML"
+    ],
+    "yaml": [
+      "A complete JavaScript implementation",
+      "https://www.npmjs.com/package/yaml"
+    ]
+  }
+}
