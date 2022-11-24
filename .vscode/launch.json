@@ -4,10 +4,9 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "src/index.ts",
+      "name": "Current file",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/src/index.ts",
-      "args": ["tests/res/sample.tsv"],
+      "program": "${file}",
       "preLaunchTask": "tsc_build",
       "outFiles": ["${workspaceFolder}/dist/**/*.js"]
     }
