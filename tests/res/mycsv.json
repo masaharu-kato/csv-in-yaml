@@ -1,0 +1,41 @@
+{
+  "mydata": {
+    "$csv_header": [
+      "id",
+      "name",
+      "age"
+    ],
+    "$csv_rows": [
+      [
+        1,
+        "John Tanaka",
+        25
+      ],
+      [
+        2,
+        "Taro Suzuki",
+        31
+      ],
+      [
+        3,
+        "Tom Sato",
+        17
+      ],
+      [
+        4,
+        "Judy Foobar",
+        25
+      ],
+      [
+        5,
+        "Unnamed",
+        27
+      ],
+      [
+        6,
+        "Sachi Piyo",
+        20
+      ]
+    ]
+  }
+}
